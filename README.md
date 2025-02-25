@@ -1,5 +1,5 @@
 # simple_snake
-This repository aims to host a simple version of the classical snake game in 2D.
+This repository aims to host a simple version of the classical snake game in 2D. You can control de motion of the snake using the arrow key on your keyboard.
 
 # How to play it?
 You can load the game on the browser here: https://nelson-pechmay.github.io/simple_snake/
@@ -13,4 +13,4 @@ You can load the game on the browser here: https://nelson-pechmay.github.io/simp
 Here are some screenshots of the game:
 Screen test 01                |  Screen test 02
 :----------------------------:|:--------------------------------------:
-![](data/*.jpg)  |  ![](data/*.jpg)
+![](data/Screenshot_01.png)  |  ![](data/Screenshot_02.png)
